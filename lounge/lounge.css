@@ -1,5 +1,5 @@
 .guarantee {
-  line-height: 1.9cm;
+  line-height: 1cm;
   font-style: italic;
   font-family: Georgia, 'Times New Roman', Times, serif;
   columns: #444444;
@@ -7,10 +7,9 @@
   border-width:1px;
   border-style:solid;
   background-color:#a7cece;
-  padding:25px;
-  padding-left: 80px;
-  margin:30px;
-  margin-right: 250px;
+  padding:20px;
+  padding-top: 60px;
+  margin:20px;
   background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: top left;
@@ -39,7 +38,41 @@ h2{color:black;}
 h3{color:#d12c47;}
 .cd{
   font-style: italic;
+  color: chocolate;
 }
 .artist{
   font-weight: bold;
+  color: chocolate;
+}
+.t1{
+  font-style: italic;
+  color: darkgreen;
+}
+.g1{
+  font-weight: bold;
+  color: darkgreen;
+}
+.t2{
+  font-style: italic;
+  color: blue;
+}
+.g2{
+  font-weight: bold;
+  color: blue;
+}
+.t3{
+  font-style: italic;
+  color: #d12c47;
+}
+.g3{
+  font-weight: bold;
+  color: #d12c47;
+}
+.t4{
+  font-style: italic;
+  color: aqua;
+}
+.g4{
+  font-weight: bold;
+  color: aqua;
 }
